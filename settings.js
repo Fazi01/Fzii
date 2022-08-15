@@ -54,15 +54,15 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6288271609722'] //ur owner number
-global.ownername = "Fazi" //ur owner name
+global.vcardowner = ['6281371208100'] //ur owner number
+global.ownername = "raffa" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['6288271609722']
-global.ownertag = '6288271609722' //ur tag number
+global.owner = ['6281371208100']
+global.ownertag = '621371208100' //ur tag number
 global.botname = 'Fzii bot' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
